@@ -1,2 +1,16 @@
-# finance-calculator
-A collection of financial calculators built with Python. The project features a modular codebase, reusable utility functions, automated tests using pytest, and a simple command-line interface for performing everyday financial calculations.
+# Finance Calculators
+
+A Python command-line application that provides common financial calculations.
+
+## Features
+- EMI Calculator
+- SIP Calculator
+- GST Calculator
+- Fixed Deposit Calculator
+
+## Run
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
