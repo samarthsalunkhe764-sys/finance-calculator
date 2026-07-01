@@ -1,0 +1,2 @@
+EMI: 500000, 8.5%, 20 years
+SIP: 5000/month, 12%, 15 years
